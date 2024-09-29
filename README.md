@@ -19,7 +19,3 @@ The **Airline Reservation System** is a console-based application developed to m
 ## Contributions
 Feel free to contribute by submitting pull requests or raising issues.
 
----
-
-## License
-This project is licensed under the MIT License.
